@@ -72,7 +72,7 @@ Moastrar que é um comando
 
 È document.getElementById()
 
-É 'document.getElementById()'
+É "document.getElementById()"
 
 '''
 num = int(input('Digite um valor'))
