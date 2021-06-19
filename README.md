@@ -57,4 +57,4 @@ Lista de tarefas
 
 [Acesse o site ](https://github.com/gustavoguanabara?tab=overview&from=2020-12-01&to=2020-12-31)
 
-![Octocat](https://octodex.github.com/yogitocat/)
+[Octocat](https://octodex.github.com/yogitocat/)
