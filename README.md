@@ -69,14 +69,11 @@ Num | Nome | Nota
 2 | Felipe | 10
 
 Moastrar que é um comando 
---- não funcionou
 
 È document.getElementById()
-
 É  `document.getElementById()`
 
----não funcionou as 3 crases
-
+Trecho de codigo
 ```
 num = int(input('Digite um valor'))
 if num %2 == 0
