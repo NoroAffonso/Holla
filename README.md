@@ -1,3 +1,4 @@
+![privateinvestocat](https://user-images.githubusercontent.com/85577735/122654383-54194400-d121-11eb-8e28-60156acfad87.jpg)
 # Hello World!!
  First repositorio criado durante aula do Guanabara. 
  
@@ -71,14 +72,13 @@ Num | Nome | Nota
 Moastrar que é um comando
 
 È document.getElementById()
-
+--
 É ´document.getElementById()´
 
-"""
+´´´
 num = int(input('Digite um valor'))
 if num %2 == 0
     print(f'O valor {num} é PAR')
 else:
    print(f'O valor {num} é IMPAR')  
-      
-"""
+´´´
