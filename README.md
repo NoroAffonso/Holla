@@ -49,9 +49,9 @@ Lista demarcada
 ---
 Lista de tarefas
 
-- [] criar
-- [] criar
-- [] criar
-- [X] criar
-- [X] criar
+ [] criar
+ [] criar
+ [] criar
+ [X] criar
+ [X] criar
 
