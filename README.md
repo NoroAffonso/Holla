@@ -24,17 +24,17 @@ Lista numerada
 1. Teste1
 1. Teste2
 1. Teste3
-
+---
 1. Teste
 99. Teste1
 256. Teste2
-
+***
 1. Teste
 1. Teste1
     1. Teste1
     1. Teste1
 1. Teste3
-
+---
 Lista demarcada
 
 * Teste
@@ -46,3 +46,12 @@ Lista demarcada
 - teste1
     - teste1
 - teste2
+---
+Lista de tarefas
+
+- [] criar
+- [] criar
+- [] criar
+- [X] criar
+- [X] criar
+
