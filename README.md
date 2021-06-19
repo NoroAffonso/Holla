@@ -55,12 +55,30 @@ Lista de tarefas
  - [X] criar
  - [X] criar
 
+
+Hyperlink
 [Acesse o site ](https://github.com/gustavoguanabara?tab=overview&from=2020-12-01&to=2020-12-31)
 
-
+Imagem
 ![Octocat](https://octodex.github.com/yogitocat/)
 
+Tabela
 Num | Nome | Nota
 ---|---|---|
 1 | Gustavo | 8,5
 2 | Felipe | 10
+
+Moastrar que é um comando
+
+È document.getElementById()
+
+É 'document.getElementById()'
+
+'''
+num = int(input('Digite um valor'))
+if num %2 == 0
+    print(f'O valor {num} é PAR')
+else:
+   print(f'O valor {num} é IMPAR')  
+      
+'''
