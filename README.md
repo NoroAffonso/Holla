@@ -20,20 +20,20 @@ Estou aprendendo linguagem *_Markdown_* no Curso em Video de *_Git_* e _*Github*
 
 Lista numerada
 
-1.Teste
-1.Teste1
-1.Teste2
-1.Teste3
+1. Teste
+1. Teste1
+1. Teste2
+1. Teste3
 
-1.Teste
-99.Teste1
-256.Teste2
+1. Teste
+99. Teste1
+256. Teste2
 
-1.Teste
-1.Teste1
-    1.Teste1
-    1.Teste1
-1.Teste3
+1. Teste
+1. Teste1
+    1. Teste1
+    1. Teste1
+1. Teste3
 
 Lista demarcada
 
