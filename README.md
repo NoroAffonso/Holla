@@ -67,10 +67,12 @@ Num | Nome | Nota
 ---|---|---|
 1 | Gustavo | 8,5
 2 | Felipe | 10
+3 | Ana| 10
 
 Moastrar que é um comando 
 
 È document.getElementById()
+
 É  `document.getElementById()`
 
 Trecho de codigo
