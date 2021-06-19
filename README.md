@@ -61,4 +61,6 @@ Lista de tarefas
 ![Octocat](https://octodex.github.com/yogitocat/)
 
 Num | Nome | Nota
-
+---|---|---|
+1 | Gustavo | 8,5
+2 | Felipe | 10
